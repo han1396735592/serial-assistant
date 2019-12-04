@@ -1,5 +1,7 @@
 # serial-assistant
 
+![test](test.gif)
+
 ## Project setup
 ```
 yarn
