@@ -15,7 +15,7 @@
   "dependencies": {
     "ant-design-vue": "^1.4.8",
     "core-js": "^3.4.3",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "serialport": "^8.0.5",
     "vue": "^2.6.10",
     "vue-electron": "^1.0.6"
